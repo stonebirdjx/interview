@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-11-22T13:16:28.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="LhQ29Zmwz2lESLS_fu9X" version="22.0.3" type="device">
+  <diagram name="第 1 页" id="WxO3pIIVluApQEACgnS8">
+    <mxGraphModel dx="2074" dy="1267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rjOug2fGspKABNxj55r_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjOug2fGspKABNxj55r_-1" target="rjOug2fGspKABNxj55r_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="480" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjOug2fGspKABNxj55r_-2" target="rjOug2fGspKABNxj55r_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjOug2fGspKABNxj55r_-2" target="rjOug2fGspKABNxj55r_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-2" value="连接器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjOug2fGspKABNxj55r_-3" target="rjOug2fGspKABNxj55r_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjOug2fGspKABNxj55r_-3" target="rjOug2fGspKABNxj55r_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-3" value="分析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-4" value="缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjOug2fGspKABNxj55r_-5" target="rjOug2fGspKABNxj55r_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-5" value="优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-6" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjOug2fGspKABNxj55r_-7" target="rjOug2fGspKABNxj55r_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-14" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="884" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-16" value="存储引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-17" value="InnoDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-18" value="MyISAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjOug2fGspKABNxj55r_-19" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

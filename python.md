@@ -94,3 +94,9 @@ f1(1,2)
 
 
 # set集合 和 dict 底层原理
+
+
+
+# Other
+
+https://github.com/taizilongxu/interview_python#30-range-and-xrange
